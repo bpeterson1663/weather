@@ -1,14 +1,9 @@
 {
-  "name": "ztm-typescript-weather",
+  "name": "weather",
   "version": "0.1.0",
   "license": "(MIT OR Apache-2.0)",
   "private": true,
-  "author": "Jayson Lennon <jayson@jaysonlennon.dev>",
-  "homepage": "https://zerotomastery.io/courses/learn-typescript",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jayson-lennon/ztm-typescript"
-  },
+  "author": "Brady Peterson",
   "scripts": {
     "weather": "ts-node weather.ts"
   },
